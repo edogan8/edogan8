@@ -1,8 +1,8 @@
 ![MasterHead](https://cdn.prod.website-files.com/63ccf2f0ea97be12ead278ed/644a18b637053fa3709c5ba2_what-is-data-science.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed Emir Doğan</h1>
-<h3 align="center">Data Analytics Specialist</h3>
+<h3 align="center">Data Scientist</h3>
 
-- 💬 Ask me about **Data Analysis and Modelling**
+- 💬 Ask me about **Data Science and Machine Learning**
 
 - 📫 How to reach me **eemirdogan02@gmail.com**
 
